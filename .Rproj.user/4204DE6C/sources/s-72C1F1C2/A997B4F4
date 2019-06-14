@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1560521182133.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "A997B4F4",
+    "lastKnownWriteTime" : 1560525089,
+    "last_content_update" : 1560525089782,
+    "path" : "~/labs/r-ml/linear-regression/linear-regressiom.R",
+    "project_path" : "linear-regressiom.R",
+    "properties" : {
+        "cursorPosition" : "17,43",
+        "scrollLine" : "8",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
